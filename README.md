@@ -10,11 +10,11 @@ A faculty stores information about:
 
 Functions
 - Manage a list of students and a list of disciplines.
-- 
+
 - Add, remove, update, list students and disciplines.
-- 
+
 - Search for a student based on his/her ID and search for a discipline based on the title.
-- 
+
 - Create statistics: list of students and grades at a single discipline ordered: alphabetically, by
 their grades, the first 20% of students according to the average grades at all the disciplines.
 
