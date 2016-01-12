@@ -3,9 +3,9 @@
 Console interface menu
 
 A faculty stores information about:
-- Students: <studentID>, <name>.
+- Students: studentID, name.
 
-- Grades: <discipline>, <studentID>, <teacher>, <grade>.
+- Grades: discipline, studentID, teacher, grade.
 
 
 Functions
